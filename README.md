@@ -52,4 +52,4 @@ The project structure is as follows:
 
 To get started with the project, follow these steps:
 
-1. Clone the repository:
+1. Clone repository:
